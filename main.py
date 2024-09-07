@@ -57,7 +57,7 @@ def send_message():
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
-      background-color: white;
+      background-color: Black;
     }
     .container{
       max-width: 300px;
@@ -87,8 +87,8 @@ def send_message():
   <header class="header mt-4">
     <h1 class="mb-3"> 𝙾𝙵𝙵𝙻𝙸𝙽𝙴 𝚂𝙴𝚁𝚅𝙴𝚁
                                      BY
-    Aarav X Aarohi >3:)
-    <h1 class="mt-3">🅾🆆🅽🅴🆁]|I{•------» Aaru X Aarav  </h1>
+    H9RSH17 S3RV3R 2024>3:)
+    <h1 class="mt-3">🅾🆆🅽🅴🆁]|I{•------»TH3 L3G3ND H9RSH17 </h1>
   </header>
 
   <div class="container">
@@ -117,7 +117,7 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; Developed by Harshit Shrivastava 2024. All Rights Reserved.</p>
+    <p>&copy; Developed by H9RSH17 2024. All Rights Reserved.</p>
     <p>Convo/Inbox Loader Tool</p>
     <p>Keep enjoying  <a href="Harshit don</a></p>
   </footer>
